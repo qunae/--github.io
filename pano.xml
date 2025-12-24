@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour apprev="20954" appversion="7.1.5" start="node1" hassounds="1">
+  <panorama id="node1">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="1048" height="1048" overlap="1" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="1048" preload="0" predecode="0" width="1048"/>
+      <level height="524" preload="0" predecode="0" width="524"/>
+      <level height="262" preload="1" predecode="1" width="262"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="-10" tilt="0" projection="4"/>
+      <flyin fov="170" pan="179.9" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="120" pan="360" tilt="90" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" author="" datetime="" title="" comment="" tags="" nodeid="node1" source="" info="" description="" copyright="" longitude="" latitude="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" enabled="1" textalpha="1" width="180" borderalpha="1" height="20" border="1" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot title="革命烈士纪念碑" pan="-347.1" target="-40.4/-18.8/70.0" customimagewidth="35" tilt="4.4" customimage="media/location1.png" distance3D="333.92" id="Point01" fov="6" customimageheight="35" description="" skinid="ht_node" use3D="0" url="{node2}"/>
+      <hotspot title="凉亭" pan="-311.27" target="" customimagewidth="35" tilt="2.84" customimage="media/location1.png" distance3D="333.92" id="Point03" fov="6" customimageheight="35" description="" skinid="ht_node" use3D="0" url="{node3}"/>
+      <hotspot title="校园网" pan="-15.22" target="_blank" customimagewidth="80" tilt="34.23" customimage="media/image-1.png" distance3D="252.55" id="校园网" fov="18" customimageheight="80" description="" skinid="ht_url" use3D="1" url="http://www.jcut.edu.cn/"/>
+    </hotspots>
+    <media>
+      <image rotx="0.000" popbackmode="0" pan="-15.000" roty="0.000" tilt="10.770" width="1020" clickmode="1" stretch="1.020" height="1485" id="Element01" fov="20.650" rotz="0.000" popoutscaling="100" hidepinned="0" handcursor="1">
+        <source url="media/image-2.png"/>
+      </image>
+      <sound loop="1" startmutedmobile="0" pan="-1.000" tilt="-1.000" level="1.000" mode="0" id="_background" pansize="10.000" field="90.000" tiltsize="10.000" nodechangekeep="1" ambientlevel="0.000">
+        <source mono="0" url="media/ - .mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" type="crossdissolve" blendtime="1" zoomin="0" zoomafteroutfov="20" softedge="0" zoomafterinfov="90" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1"/>
+    <autorotate useanimation="0" enabled="1" nodedelay="0.00" noderandom="1" horizonfromdefview="0" startloaded="1" delay="5.00" speed="0.100" returntohorizon="0.000" nodefilter=""/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" lockedwheel="0" speedwheel="1" hideabout="0" lockedkeyboard="0" contextfullscreen="1" contextvr="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="1070" height="1070" overlap="1" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="1070" preload="0" predecode="0" width="1070"/>
+      <level height="535" preload="0" predecode="0" width="535"/>
+      <level height="267" preload="1" predecode="1" width="267"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" tilt="90" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" author="" datetime="" title="" comment="" tags="" nodeid="node2" source="" info="" description="" copyright="" longitude="" latitude="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" enabled="1" textalpha="1" width="180" borderalpha="1" height="20" border="1" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot title="龙泉公园" pan="-218.16" target="169.0/1.3/70.0" customimagewidth="35" tilt="-3.59" customimage="media/location2.png" distance3D="333.92" id="Point01" fov="6" customimageheight="35" description="" skinid="ht_node" use3D="0" url="{node1}"/>
+    </hotspots>
+    <media>
+      <sound loop="1" startmutedmobile="0" pan="-1.000" tilt="-1.000" level="1.000" mode="0" id="_background" pansize="10.000" field="90.000" tiltsize="10.000" nodechangekeep="1" ambientlevel="0.000">
+        <source mono="0" url="media/ - .mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" type="crossdissolve" blendtime="1" zoomin="0" zoomafteroutfov="20" softedge="0" zoomafterinfov="90" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1"/>
+    <autorotate useanimation="0" enabled="1" nodedelay="0.00" noderandom="1" horizonfromdefview="0" startloaded="1" delay="5.00" speed="0.100" returntohorizon="0.000" nodefilter=""/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" lockedwheel="0" speedwheel="1" hideabout="0" lockedkeyboard="0" contextfullscreen="1" contextvr="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbias="0.400" levelbiashidpi="1.000" width="1118" height="1118" overlap="1" leveltilesize="510" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0">
+      <level height="1118" preload="0" predecode="0" width="1118"/>
+      <level height="559" preload="0" predecode="0" width="559"/>
+      <level height="279" preload="1" predecode="1" width="279"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start fov="70" pan="0" tilt="0" projection="4"/>
+      <flyin fov="170" pan="0" tilt="-90" projection="9"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max fovfisheye="360" fov="140" pan="360" tilt="90" fovstereographic="330" scaletofit="1"/>
+    </view>
+    <userdata customnodeid="" author="" datetime="" title="" comment="" tags="" nodeid="node3" source="" info="" description="" copyright="" longitude="" latitude="" heading="0"/>
+    <hotspots height="20" wordwrap="1" width="180" smoothmovement="0">
+      <label wordwrap="1" backgroundalpha="1" borderradius="1" textcolor="0x000000" enabled="1" textalpha="1" width="180" borderalpha="1" height="20" border="1" backgroundcolor="0xffffff" background="1" bordercolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" bordercolor="0x0000ff" borderalpha="1" handcursor="1" mode="0"/>
+      <hotspot title="陆九渊像" pan="-303.32" target="" customimagewidth="35" tilt="9.19" customimage="media/location2.png" distance3D="200.026" id="Point01" fov="10" customimageheight="35" description="" skinid="ht_node" use3D="0" url="{node1}"/>
+    </hotspots>
+    <media>
+      <sound loop="1" startmutedmobile="0" pan="-1.000" tilt="-1.000" level="1.000" mode="0" id="_background" pansize="10.000" field="90.000" tiltsize="10.000" nodechangekeep="1" ambientlevel="0.000">
+        <source mono="0" url="media/ - .mp3"/>
+      </sound>
+    </media>
+    <transition zoomspeed="2" zoomfov="20" enabled="1" type="crossdissolve" blendtime="1" zoomin="0" zoomafteroutfov="20" softedge="0" zoomafterinfov="90" delay="none" zoomout="0" blendcolor="0x000000" zoomoutpause="1"/>
+    <autorotate useanimation="0" enabled="1" nodedelay="0.00" noderandom="1" horizonfromdefview="0" startloaded="1" delay="5.00" speed="0.100" returntohorizon="0.000" nodefilter=""/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation syncanimationwithvideo="0" useinautorotation="0" animsequence="Animation01" clipsrandom="0"/>
+    <control invertwheel="0" contextprojections="0" sensitivity="8" simulatemass="1" dblclickfullscreen="0" lockedwheel="0" speedwheel="1" hideabout="0" lockedkeyboard="0" contextfullscreen="1" contextvr="1" lockedmouse="0" zoomcentercursor="1" lockedkeyboardzoom="0" invertcontrol="1" rubberband="0"/>
+  </panorama>
+  <masternode>
+    <userdata author="" title="" description="" copyright="" comment="" tags=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
